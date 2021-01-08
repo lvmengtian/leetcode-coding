@@ -3,7 +3,6 @@ package com.lmt.leetcode.medium;
 import com.lmt.leetcode.common.ListNode;
 
 /**
- * @author lvmengtian <lvmengtian@kuaishou.com>
  * Created on 2020-12-26
  */
 public class Main2 {
