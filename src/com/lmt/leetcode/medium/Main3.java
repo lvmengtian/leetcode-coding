@@ -1,8 +1,6 @@
 package com.lmt.leetcode.medium;
 
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Set;
 
 /**
  * @author lvmengtian <lvmengtian@kuaishou.com>
